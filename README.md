@@ -1,0 +1,2 @@
+# smadapt
+Socket module adapters
